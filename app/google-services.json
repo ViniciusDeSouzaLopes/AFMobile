@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457294757867",
+    "project_id": "af-projeto-40233",
+    "storage_bucket": "af-projeto-40233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457294757867:android:16476e73737ff3a65c63ae",
+        "android_client_info": {
+          "package_name": "com.example.afmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPe38MfFQSbEgPmIMdtjBa0E8A79DxuGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
